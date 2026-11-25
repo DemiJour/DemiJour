@@ -52,15 +52,6 @@
 
 ---
 
-<!-- GitHub Stats (Dynamic Dashboard) -->
-## 📊 GitHub Dashboard
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Leo's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-</div>
-
----
-
 <!-- Featured Projects -->
 ## 🚀 Featured Projects
 
