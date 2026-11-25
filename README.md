@@ -143,58 +143,6 @@ Focused on engineering maintainable solutions that improve operational efficienc
 
 ---
 
-## Featured Projects
-
-### 📦 Warehouse & Inventory Management
-
-<a href="https://www.fullgoodfulfillment.com/">
-<img src="https://img.shields.io/badge/Live%20Project-Visit%20Website-2563EB?style=flat-square&logo=googlechrome&logoColor=white" />
-</a>
-
-**Enterprise Fulfillment & Inventory Operations**
-
-`C#` `ASP.NET Core` `Entity Framework Core` `SQL Server` `React` `TypeScript`
-
-- Developed backend services for inventory intake, stock transactions, and fulfillment workflows.
-- Built React dashboards for inventory visibility, shipments, and warehouse operations.
-- Implemented database operations and integrations to support accurate inventory synchronization.
-
----
-
-### 🏥 Healthcare API & EHR-CRM Integration
-
-<a href="https://www.mobilecarehealth.com/">
-<img src="https://img.shields.io/badge/Live%20Project-Visit%20Website-0D9488?style=flat-square&logo=googlechrome&logoColor=white" />
-</a>
-
-**Connected Healthcare & Patient Data Integration**
-
-`Python` `Flask` `React Native` `TypeScript` `Firebase` `REST APIs`
-
-- Integrated Withings device webhooks for weight, blood pressure, sleep, and ECG data.
-- Developed backend workflows for processing patient health information.
-- Integrated Charm Health vitals endpoints with patient records.
-- Implemented patient identification and matching workflows.
-
----
-
-### 🌾 Agricultural Logistics & Data Platform
-
-<a href="https://thegrainhq.com/">
-<img src="https://img.shields.io/badge/Live%20Project-Visit%20Website-16A34A?style=flat-square&logo=googlechrome&logoColor=white" />
-</a>
-
-**Agricultural Operations & Business Data Platform**
-
-`C#` `.NET` `TypeScript` `SQL` `React`
-
-- Developed application components supporting farm managers and agricultural brokers.
-- Implemented business data workflows and backend integrations.
-- Built frontend functionality for operational information management.
-- Focused on maintainable architecture and reliable data exchange.
-
----
-
 ## AI-Driven Engineering
 
 Applying AI to improve software development, automate complex workflows, and create intelligent product experiences.
