@@ -1,83 +1,272 @@
-<!-- Animated Header -->
+
+<!-- ================= HEADER ================= -->
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B;I'm+Leo+Hunter+Simon;Senior+Full+Stack+AI+Engineer" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,100:312E81&height=8&section=header" width="100%" />
+
+# Full Stack Engineering | Applied AI
+
+**Scalable Applications · Backend Architecture · Intelligent Automation**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=60A5FA&center=true&vCenter=true&width=700&lines=Building+Reliable+Software;Engineering+Scalable+Backend+Systems;Integrating+AI+Into+Real+Products;Turning+Complex+Ideas+Into+Solutions" />
+
 </div>
 
-<!-- Contact Info -->
+---
+
+## Professional Overview
+
+Senior Full Stack Engineer with 6+ years of experience delivering enterprise SaaS platforms, scalable backend systems, and AI-enabled applications.
+
+Specialized in **Python, C#/.NET, Java, React, and TypeScript**, with strong experience in API development, cloud infrastructure, database architecture, and enterprise integrations.
+
+Focused on engineering maintainable solutions that improve operational efficiency, system reliability, and business outcomes.
+
+**Core Expertise**
+
+- End-to-end product development and technical ownership
+- Backend architecture, REST APIs, and microservices
+- AI/LLM integration and intelligent workflow automation
+- Database architecture and performance optimization
+- Cloud-native applications and DevOps automation
+- Production testing, reliability, and system modernization
+
+---
+
+## Technical Expertise
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 01. Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,cs,java,typescript,javascript&perline=5" />
+
+**Expertise**
+- Python application development
+- C# and .NET engineering
+- Java and Spring Boot
+- TypeScript and JavaScript
+- Object-oriented programming
+
+</td>
+<td width="50%" valign="top">
+
+### 02. Frontend Engineering
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,redux,tailwind&perline=5" />
+
+**Expertise**
+- Modern React applications
+- Next.js and server rendering
+- Reusable UI architecture
+- State management
+- Responsive design and optimization
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 03. Backend & API Engineering
+
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask,dotnet,spring,nodejs&perline=5" />
+
+**Expertise**
+- RESTful API architecture
+- Microservices and distributed systems
+- Authentication and authorization
+- Asynchronous processing
+- Third-party integrations
+
+</td>
+<td width="50%" valign="top">
+
+### 04. Databases & Data Systems
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb,sqlite,kafka&perline=5" />
+
+**Expertise**
+- Relational database design
+- SQL and query optimization
+- Indexing and caching
+- Data synchronization
+- Event-driven processing
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 05. Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,githubactions&perline=5" />
+
+**Expertise**
+- AWS and Azure deployments
+- Docker and Kubernetes
+- CI/CD automation
+- Infrastructure as Code
+- Monitoring and reliability
+
+</td>
+<td width="50%" valign="top">
+
+### 06. AI & Machine Learning
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=4" />
+
+**Expertise**
+- OpenAI, Claude, and Gemini APIs
+- LangChain and LangGraph
+- RAG and vector databases
+- AI agents and tool calling
+- MCP and A2A integration
+- Model evaluation and automation
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 07. Testing & Development Tools
+
+<img src="https://skillicons.dev/icons?i=pytest,jest,cypress,playwright,git,github,vscode&perline=7" />
+
+**Expertise:** Unit Testing · Integration Testing · E2E Testing · Code Reviews · Automated QA · AI-Assisted Development
+
+</td>
+</tr>
+</table>
+
+---
+
+## Featured Projects
+
+### 📦 Warehouse & Inventory Management
+
+<a href="https://www.fullgoodfulfillment.com/">
+<img src="https://img.shields.io/badge/Live%20Project-Visit%20Website-2563EB?style=flat-square&logo=googlechrome&logoColor=white" />
+</a>
+
+**Enterprise Fulfillment & Inventory Operations**
+
+`C#` `ASP.NET Core` `Entity Framework Core` `SQL Server` `React` `TypeScript`
+
+- Developed backend services for inventory intake, stock transactions, and fulfillment workflows.
+- Built React dashboards for inventory visibility, shipments, and warehouse operations.
+- Implemented database operations and integrations to support accurate inventory synchronization.
+
+---
+
+### 🏥 Healthcare API & EHR-CRM Integration
+
+<a href="https://www.mobilecarehealth.com/">
+<img src="https://img.shields.io/badge/Live%20Project-Visit%20Website-0D9488?style=flat-square&logo=googlechrome&logoColor=white" />
+</a>
+
+**Connected Healthcare & Patient Data Integration**
+
+`Python` `Flask` `React Native` `TypeScript` `Firebase` `REST APIs`
+
+- Integrated Withings device webhooks for weight, blood pressure, sleep, and ECG data.
+- Developed backend workflows for processing patient health information.
+- Integrated Charm Health vitals endpoints with patient records.
+- Implemented patient identification and matching workflows.
+
+---
+
+### 🌾 Agricultural Logistics & Data Platform
+
+<a href="https://thegrainhq.com/">
+<img src="https://img.shields.io/badge/Live%20Project-Visit%20Website-16A34A?style=flat-square&logo=googlechrome&logoColor=white" />
+</a>
+
+**Agricultural Operations & Business Data Platform**
+
+`C#` `.NET` `TypeScript` `SQL` `React`
+
+- Developed application components supporting farm managers and agricultural brokers.
+- Implemented business data workflows and backend integrations.
+- Built frontend functionality for operational information management.
+- Focused on maintainable architecture and reliable data exchange.
+
+---
+
+## AI-Driven Engineering
+
+Applying AI to improve software development, automate complex workflows, and create intelligent product experiences.
+
+<table>
+<tr>
+<th width="30%">Development Stage</th>
+<th>Engineering Approach</th>
+</tr>
+<tr>
+<td>01 · Planning</td>
+<td>Requirements analysis, architecture, and technical decomposition</td>
+</tr>
+<tr>
+<td>02 · Development</td>
+<td>AI-assisted coding, implementation, and refactoring</td>
+</tr>
+<tr>
+<td>03 · Integration</td>
+<td>LLM APIs, agents, external tools, and enterprise services</td>
+</tr>
+<tr>
+<td>04 · Validation</td>
+<td>Code review, automated testing, and edge-case analysis</td>
+</tr>
+<tr>
+<td>05 · Optimization</td>
+<td>Performance, security, reliability, and cost evaluation</td>
+</tr>
+<tr>
+<td>06 · Deployment</td>
+<td>Docker, CI/CD, cloud deployment, and monitoring</td>
+</tr>
+</table>
+
+**AI Development Environment**
+
+<img src="https://img.shields.io/badge/Claude_Code-1F2937?style=flat-square" />
+<img src="https://img.shields.io/badge/Cursor-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=flat-square&logo=github" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
+<img src="https://img.shields.io/badge/LangGraph-7C3AED?style=flat-square" />
+
+---
+
+## Engineering Focus
+
 <div align="center">
-  <a href="mailto:leohuntersimon1998@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="YOUR_LINKEDIN_URL_HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="YOUR_GITHUB_URL_HERE"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://img.shields.io/badge/Location-Arlington,%20VA-blue?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
-</div>
+
+<img src="https://img.shields.io/badge/Enterprise%20SaaS-Architecture-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Scalable-Backend-7C3AED?style=for-the-badge" />
 
 <br/>
 
-<!-- Summary -->
-## 💼 Summary
-> Senior full-stack engineer with 6+ years developing enterprise SaaS, backend APIs, and data-intensive applications. Delivered React and TypeScript interfaces with Python, .NET, and Java-based services across healthcare, fulfillment, analytics, and developer platforms. Experienced with cloud integrations, relational databases, AI-assisted development, and ML benchmarking.
+<img src="https://img.shields.io/badge/Applied-AI-0891B2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cloud-Native-0D9488?style=for-the-badge" />
 
----
+<br/>
 
-<!-- Tech Stack -->
-## 🛠️ Technical Skills
-
-<div align="center">
-
-**Languages & Frontend**<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-
-**Backend & Databases**<br>
-<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-
-**Cloud, AI & DevOps**<br>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Distributed-Systems-475569?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data-Engineering-DB2777?style=for-the-badge" />
 
 </div>
 
 ---
 
-<!-- Featured Projects -->
-## 🚀 Featured Projects
-
-### 📦 Warehouse & Inventory Management | [Live Site](https://www.fullgoodfulfillment.com/)
-*Built React and TypeScript dashboards showing inventory availability, purchase orders, shipment status, and warehouse activity.*
-*   Developed C# and ASP.NET Core REST APIs for inbound intake, stock movements, and fulfillment updates.
-*   Used Entity Framework Core and SQL Server to maintain inventory and investigate synchronization issues.
-
-### 🏥 HIPAA API & EHR-CRM Integration | [Live Site](https://www.mobilecarehealth.com/)
-*Designed C# and ASP.NET Core integration services connecting FieldFlö with Foundation ERP project, labor, and inventory data.*
-*   Built Azure SQL synchronization records and tenant-specific configuration for cross-system data exchange.
-*   Implemented Azure Batch jobs for scheduled transfers of high-volume construction data.
-
-### 🧠 MLPerf Machine Learning Benchmarking | [Reference](https://thegrainhq.com/)
-*Created Python utilities to prepare MLPerf inference workloads and organize benchmark configurations.*
-*   Executed PyTorch and TensorFlow workloads, analyzing inference results for performance comparisons.
-*   Processed metrics with NumPy and Pandas, investigating bottlenecks across Docker and Linux environments.
-
----
-
-<!-- Footer / Contact -->
-## 🤝 Let's Connect!
-I am always open to collaborating on innovative projects, AI integration, or enterprise software solutions. 
-
 <div align="center">
-  <a href="mailto:leohuntersimon1998@gmail.com">
-    <img src="https://img.shields.io/badge/Say_Hello!-leohuntersimon1998@gmail.com-blue?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Say Hello" />
-  </a>
+
+### Engineering Reliable Systems. Building Intelligent Products.
+
+Combining strong engineering fundamentals with modern technologies to solve meaningful business challenges.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,100:0B1220&height=90&section=footer" width="100%" />
+
 </div>
